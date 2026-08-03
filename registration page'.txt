@@ -35,7 +35,7 @@
         <label>Address:</label><br>
                <input type="submit" value="Register">
         <input type="reset" value="Reset">
-
+        <a href="file:///C:/Users/srini/Videos/New%20folder/frontend/cv.html"><u>cv</u></a>
     </form>
 
 </body>

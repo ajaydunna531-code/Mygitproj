@@ -5,12 +5,13 @@
 <body>
 <form>
 <label> User name: </label><input type="text">
-
-
-
-
-
 <\form>
+<nav>
+<a href="file:///C:/Users/srini/Videos/New%20folder/frontend/registrationpage.html">registration page</a>
+</nav>
+
+
+
 
 
 
